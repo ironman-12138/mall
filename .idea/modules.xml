@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mall.iml" filepath="$PROJECT_DIR$/.idea/mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-back-manage/mall-back-manage.iml" filepath="$PROJECT_DIR$/mall-back-manage/mall-back-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common.iml" filepath="$PROJECT_DIR$/mall-common/mall-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-coupon/mall-coupon.iml" filepath="$PROJECT_DIR$/mall-coupon/mall-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-gateway/mall-gateway.iml" filepath="$PROJECT_DIR$/mall-gateway/mall-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-generator/mall-generator.iml" filepath="$PROJECT_DIR$/mall-generator/mall-generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-member/mall-member.iml" filepath="$PROJECT_DIR$/mall-member/mall-member.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-order/mall-order.iml" filepath="$PROJECT_DIR$/mall-order/mall-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-product/mall-product.iml" filepath="$PROJECT_DIR$/mall-product/mall-product.iml" />
